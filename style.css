@@ -275,17 +275,23 @@ header .logo {
 .container .mail {
     height: 2437px;
     background-color: #2d3136;
+    padding-top: 248px;
 }
 
-.mail .post {
+.mail .circle {
     border-radius: 50%;
     border-style: solid;
     border-width: 51px;
+    background: url(images/lsd.png) no-repeat 0px 126px;
     border-color:  #383939;
     background-color:  #be393b;
     width: 456px;
     height: 456px;
+    margin-left: 1429px;
+    
 }
+
+
 .container footer {
     height: 390px;
     background-color: #2a2d33;
